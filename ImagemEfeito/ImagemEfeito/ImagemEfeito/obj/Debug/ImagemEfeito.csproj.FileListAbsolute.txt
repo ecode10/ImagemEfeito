@@ -1,0 +1,5 @@
+C:\Inetpub\wwwroot\ImagemEfeito\ImagemEfeito\ImagemEfeito\bin\ImagemEfeito.dll
+C:\Inetpub\wwwroot\ImagemEfeito\ImagemEfeito\ImagemEfeito\bin\ImagemEfeito.pdb
+C:\Inetpub\wwwroot\ImagemEfeito\ImagemEfeito\ImagemEfeito\obj\Debug\ResolveAssemblyReference.cache
+C:\Inetpub\wwwroot\ImagemEfeito\ImagemEfeito\ImagemEfeito\obj\Debug\ImagemEfeito.dll
+C:\Inetpub\wwwroot\ImagemEfeito\ImagemEfeito\ImagemEfeito\obj\Debug\ImagemEfeito.pdb
